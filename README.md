@@ -1,4 +1,11 @@
-### Olá 👋 Bem-vindo ao meu perfil do GitHub.
+### 👋 Olá! Eu sou o Daniel.
+
+Desenvolvedor web com paixão por criar interfaces intuitivas e funcionais. Estou sempre buscando aprender novas ferramentas e técnicas para melhorar a experiência dos usuários.
+
+## 🚀 Habilidades
+
+- **Front-End:** HTML, CSS, JavaScript
+- **Design de UI:** Figma, Framer
 
 <div align="left">
   <a href="https://github.com/danielbricola">
@@ -12,11 +19,7 @@
   <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-    
-##
 
-<div> 
-  <a href = "mailto:danielbricola@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-bricola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-</div>
+## 🌐 Vamos Conectar?
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-bricola/)
