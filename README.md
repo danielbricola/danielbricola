@@ -13,6 +13,8 @@ Desenvolvedor web com paixão por criar interfaces intuitivas e funcionais. Esto
   <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img align="center" alt="Dan-HTML" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
 </div>
 
 ## 🚀 Habilidades
